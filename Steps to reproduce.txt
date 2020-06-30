@@ -1,1 +1,21 @@
 Jak tylko przypomnê sobie przypadke, to napiszê kroki :D 
+
+1.Wprowadzenie w przegl¹darce adresu https:/ctarena.cms.efitness.com.pl (pierwszy b³¹d wizualny)
+2.Klikniêcie przycisku "Badminton"
+3.Klikniêcie przycisku "rezerwuj kort"
+4.Klikniêcie zak³adki "Kalendarz zajêæ" 
+5.Klikniêcie przycisku Kort4 w kolumnie godz 20:00.
+6.Klikniêcie w przycisk "Zapisz siê"
+7.Podanie loginu "admin"
+8.Podanie has³a "admin"
+
+
+Oczekiwana reakcja: otwarcie okna zarejestrowanego u¿ytkownika z uprawnieniami administracyjnycmi
+
+Efekt: powrót do okna zapisu na zajêcia, z dostêpnym przyciskiem Zapisz siê.
+
+
+
+
+Ffox 77.0.1 (64 bity)
+OS MS Windows 7 Professional Version 6.1.7601 Service Pack 1 Build 7601
